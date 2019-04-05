@@ -1,4 +1,4 @@
-# Cepstromarg-Filtering-Harmonic-Percussive-Sound-Separation-Audio-Clips
+# Cepstromarg-Filtering-and-HPSS
 
 There are seven files for an example of musical source separation.
 1. piano_percussion.wav is a mix of piano and percussion create in GarageBand for testing source separation.
