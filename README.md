@@ -14,7 +14,10 @@ There are seven audio files for an example of musical source separation.
 Also in the repository is MATLAB code to generate the audio files.  cfSingleStage.m is the main script that calls everything else, so one could just run that. In that script, percFinal is the separated percussion audio, harmFinal is the vocals and harmonics mixed (from the first stage of cepstromarg filtering), xha is the separated harmonic audio from the second stage of HPSS, and xva is the separated vocal audio from the second stage of HPSS.
 
 
-To see how cepstromarg filtering is done, check out my undergraduate thesis!  **citation coming soon**
+To see how cepstromarg filtering is done, check out my undergraduate thesis!
+
+Charous, Aaron, "Musical Source Separation: A Review of Techniques and the Proposal of Cepstromarg Filtering" (2019). Applied Mathematics Theses and Dissertations. Brown Digital Repository. Brown University Library. https://doi.org/10.26300/pcpz-6m06
+
 
 
 
